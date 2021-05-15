@@ -1,6 +1,7 @@
 ### Hello there! 👋
 
  - I'm Uriel, a Software Engineer from Mexico 🇲🇽
+ - Currently finishing my BS in Computer Systems Engineering 🎓
  - Incoming Software Engineer Intern at Facebook!!
  - My main hobbies are learning languages 🇯🇵🇫🇷🇬🇷 and dancing 🕺
  - Pronouns: He/him
