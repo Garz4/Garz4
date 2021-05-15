@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! 👋
+
+ - I'm Uriel, a Software Engineer from Mexico 🇲🇽
+ - Incoming Software Engineer Intern at Facebook!!
+ - My main hobbies are learning languages 🇯🇵🇫🇷🇬🇷 and dancing 🕺
+ - Pronouns: He/him
+ - You can find me on: [LinkedIn](https://www.linkedin.com/in/garz4/)
 
 <!--
 **Garz4/Garz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
