@@ -2,7 +2,7 @@
 
  - I'm Uriel, a Software Engineer from Mexico 🇲🇽
  - Currently finishing my BS in Computer Systems Engineering at [ESCOM](https://www.escom.ipn.mx/) 🎓
- - Incoming Software Engineer Intern at [Facebook](https://about.facebook.com/)!
+ - Software Engineer Intern at [Facebook](https://about.facebook.com/)!
  - My main hobbies are learning languages 🇯🇵🇫🇷🇬🇷, dancing 🕺 and singing 🎤
  - Pronouns: He/him
  - You can find me on: [LinkedIn](https://www.linkedin.com/in/garz4/)
