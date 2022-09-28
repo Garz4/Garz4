@@ -1,4 +1,5 @@
 ### Hello there! 👋
 
- - I'm Uriel, a Software Engineer.
+ - Software Engineer @ IBM
+ - Former SWE Intern @ Facebook
  - He/him/his
